@@ -8,13 +8,13 @@ I am actively fetching concepts and problems from various online sources, would 
 
 Topics covered so far:
 
-js_routemap/
+##js_routemap/
 
 string/
-├── reverse_a_string.js # Reverse a given string │
-├──
+--> palindrom.js [Check Boolean on a string whether palindrom or not]
+--> reverse_a_string.js [Reverse a given string]
 
-####Author:
+##Author:
 
 Siri TH
 "Learning one bug at a time!"
