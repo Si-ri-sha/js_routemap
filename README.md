@@ -1,20 +1,11 @@
-# js_routemap 🚀
+# 🚀 js_routemap
 
-> A structured journey through JavaScript problems - from basics to advanced.
+> A structured journey through JavaScript problems – from basics to advanced.
 
-## This repo is my personal learning space to explore JavaScript concepts and problem-solving.
+---
 
-I am actively fetching concepts and problems from various online sources, would mention the source inside the file accordingly!.
+## 📘 About
 
-Topics covered so far:
+This repo is my personal learning space to explore JavaScript concepts and improve my problem-solving skills.
 
-##js_routemap/
-
-string/
---> palindrom.js [Check Boolean on a string whether palindrom or not]
---> reverse_a_string.js [Reverse a given string]
-
-##Author:
-
-Siri TH
-"Learning one bug at a time!"
+I actively pick concepts and challenges from various online sources and will mention the source inside each file where applicable.
